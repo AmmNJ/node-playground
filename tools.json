@@ -1,1 +1,10 @@
-[{"name":"brew","score":"10"},{"name":"vim","score":"5"},{"name":"VSCode","score":"10"},{"name":"VSCode","score":"10"},{"name":"VSCode","score":"10"}]
+[
+  { "name": "brew", "score": "10" },
+  { "name": "vim", "score": "5" },
+  { "name": "VSCode", "score": "10" },
+  { "name": "VSCode", "score": "10" },
+  { "name": "VSCode", "score": "10" },
+  { "name": "VSCode", "score": "10" },
+  { "name": "VSCode", "score": "10" },
+  { "name": "VSCode", "score": "1" }
+]
